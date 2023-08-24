@@ -1,0 +1,27 @@
+{
+  "name": "projetoapi",
+  "version": "1.0.0",
+  "description": "API para um Banco Digital.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuscruz/ProjetoAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuscruz/ProjetoAPI/issues"
+  },
+  "homepage": "https://github.com/manuscruz/ProjetoAPI#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
